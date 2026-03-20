@@ -1,0 +1,46 @@
+# C# / ASP.NET
+bin/
+obj/
+.vs/
+.vscode/
+*.csproj.user
+*.aps
+*.bak
+*.ldf
+*.mdf
+*.pdb
+*.resharper
+*.suo
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+*.swp
+
+# Node / React
+/frontend/bowling-league-ui/node_modules
+/frontend/bowling-league-ui/.pnp
+/frontend/bowling-league-ui/.pnp.js
+/frontend/bowling-league-ui/build
+/frontend/bowling-league-ui/coverage
+/frontend/bowling-league-ui/npm-debug.log*
+/frontend/bowling-league-ui/yarn-debug.log*
+/frontend/bowling-league-ui/yarn-error.log*
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.swp
+*.iml
+.editorconfig
